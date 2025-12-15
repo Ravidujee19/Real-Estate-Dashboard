@@ -2,7 +2,12 @@
 
 ## 📌 Project Overview
 This project is an interactive **Real Estate Analytics Dashboard** developed using **Microsoft Power BI**.  
-The dashboard provides insights into **property pricing, market trends, listing status, and agent performance**, enabling data-driven analysis of the real estate market.
+It provides insights into **property pricing, market trends, listing status, and agent performance**, enabling data-driven analysis of the real estate market.
+
+---
+
+## 📸 Dashboard Screenshot
+![Real Estate Dashboard](screenshots/dashboard.png)
 
 ---
 
@@ -10,8 +15,8 @@ The dashboard provides insights into **property pricing, market trends, listing 
 - Analyze average property prices and active listings
 - Identify pricing trends across months and cities
 - Understand property type and listing status distribution
-- Evaluate real estate agent performance metrics
-- Enable interactive exploration using filters and slicers
+- Evaluate real estate agent performance
+- Enable interactive analysis using filters and slicers
 
 ---
 
@@ -27,31 +32,31 @@ The dashboard provides insights into **property pricing, market trends, listing 
 ---
 
 ## 📈 Dashboard Features
-- **KPI cards** with month-over-month comparison
-- **Price Trend by City** bar chart
-- **Monthly Average Price Trend** visualization
-- **Property Type Distribution** donut chart
-- **Listing Status Distribution** donut chart
-- **Agent Performance** summary cards
-- **Detailed property table** with listing status and days on market
-- **Interactive slicers** for Month and Year
-
+- KPI cards with month-over-month comparison
+- Price Trend by City visualization
+- Monthly Average Price Trend chart
+- Property Type Distribution donut chart
+- Listing Status Distribution donut chart
+- Agent Performance summary cards
+- Interactive slicers for Month and Year
+- Detailed property table with listing status and days on market
+  
 ---
 
 ## 🔄 Data Preparation & Modeling
-- Cleaned and transformed data using **Power Query**
+- Data cleaning and transformation using **Power Query**
 - Created a dedicated **Date table** for time-based analysis
 - Built calculated measures using **DAX**
-- Established proper relationships between tables
+- Established relationships between data tables
 
 ---
 
 ## 🔍 Key Insights
-- Property prices show noticeable variation across cities
-- Monthly trends indicate fluctuations in average listing prices
-- Residential properties dominate the listings
-- A significant portion of properties remain active compared to sold listings
-- Agent close rate is below 40%, indicating potential market slowdown or longer sales cycles
+- Property prices vary significantly across cities
+- Monthly trends show fluctuations in average listing prices
+- Residential properties dominate the market
+- A large portion of listings remain active compared to sold properties
+- Agent close rate is below 40%, indicating longer sales cycles
 
 ---
 
@@ -63,15 +68,18 @@ The dashboard provides insights into **property pricing, market trends, listing 
 ---
 
 ## 📂 Project Files
-- `Real Estate.pbix` – Power BI dashboard file
-- `README.md` – Project documentation
+- `Real Estate.pbix` – Power BI dashboard file  
+- `README.md` – Project documentation  
+- `screenshots/dashboard.png` – Dashboard screenshot  
 
 ---
 
 ## 🚀 How to Use
 1. Download the `Real Estate.pbix` file
 2. Open it using **Microsoft Power BI Desktop**
-3. Use the Month and Year slicers to explore trends
-4. Interact with visuals to gain market insights
+3. Use Month and Year slicers to explore trends
+4. Interact with visuals for deeper insights
+
+---
 
 <!--⭐ If you find this project useful, feel free to star the repository!-->
